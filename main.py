@@ -1,3 +1,5 @@
+from funcs import *
+
 print("Hola")
 print("Segundo cambio")
 print("Tercer cambio")
